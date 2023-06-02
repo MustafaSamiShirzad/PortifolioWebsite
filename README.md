@@ -39,7 +39,7 @@ After you're finished please remove all the comments and instructions!
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[Portfolio website\] ](#-hello-microverse-)
+- [📖 \[Portfolio website\] 
   - [🛠 Built With **HTML and CSS**](#-built-with-html-and-css)
     - [Tech Stack **HTML and CSS**](#tech-stack-html-and-css)
     - [Key Features ](#key-features-)
@@ -81,7 +81,7 @@ In order to run this project you need: A web browser.
 
 Clone this repository to your desired folder:
 cd Module_1
--git clone https://github.com/MustafaSamiShirzad/Helloworld.git
+-git clone https://github.com/MustafaSamiShirzad/Portifoliowebsite.git
 
 ### Install
 
