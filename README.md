@@ -39,7 +39,7 @@ After you're finished please remove all the comments and instructions!
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[Hello Microverse\] ](#-hello-microverse-)
+- [📖 \[Portfolio website\] ](#-hello-microverse-)
   - [🛠 Built With **HTML and CSS**](#-built-with-html-and-css)
     - [Tech Stack **HTML and CSS**](#tech-stack-html-and-css)
     - [Key Features ](#key-features-)
@@ -57,14 +57,14 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello Microverse] <a name="about-project"></a>
-**Hello Microverse** is a project under microverse Module 1 block ! aimed at testing my knowledge about the concepts learnt in the first 2 days of the program.
+# 📖 [Portfolio website] <a name="about-project"></a>
+**Portfolio website** is a project under microverse Module 1 block ! aimed at testing my knowledge about the concepts learnt in the first 3 days of the program.
 
 ## 🛠 Built With **HTML and CSS**
 
 ### Tech Stack **HTML and CSS**
 ### Key Features <a name="key-features"></a>
-- **Displays Hello Microverse**
+- **Displays Portfolio website**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
