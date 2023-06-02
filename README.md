@@ -65,6 +65,9 @@ After you're finished please remove all the comments and instructions!
 ### Tech Stack **HTML and CSS**
 ### Key Features <a name="key-features"></a>
 - **Displays Portfolio website**
+ **how can you build you portfolio landing page**
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -97,6 +100,7 @@ To run the project, execute the following command:
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **[Add some Javascript to make it more responsive.]**
+- [ ] **[and also would like to implement it using React for more accuracy.]**
 
 <!-- AUTHORS -->
 
@@ -112,9 +116,20 @@ If you like this project like it and give me a follow.
 
 
 <!-- ACKNOWLEDGEMENTS -->
+contributing <a name="contributing"></a>
+ **Mustafa Shirzad**
 
+- GitHub: @MustafaSamiShirzad
 
+Show your support  <a name="show-your-support"></a>
 
+if you like this project you can follow me and reach me on Github:
+ GitHub: @MustafaSamiShirzad
+
+ Acknowledgments   <a name="acknowledgments"></a>
+ i would like to thank AssimeMark for his support:
+ 
+ Github@ https://github.com/As1imwe-Mark
 
 <!-- LICENSE -->
 
