@@ -1,45 +1,17 @@
-# Portfolio Website
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
 
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
   
 
-  <h3><b>Portfolio Website Project README</b></h3>
+  <h3><b>Portifolio Mobile Website README.md</b></h3>
 
 </div>
-
-<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[Portfolio website\] 
+- [📖 \[Portifolio Mobile Website \] ](#-portifolio-mobile-website--)
   - [🛠 Built With **HTML and CSS**](#-built-with-html-and-css)
     - [Tech Stack **HTML and CSS**](#tech-stack-html-and-css)
     - [Key Features ](#key-features-)
@@ -48,30 +20,26 @@ After you're finished please remove all the comments and instructions!
     - [Setup](#setup)
     - [Install](#install)
     - [Usage](#usage)
-  - [👥 Authors ](#-authors-)
   - [🔭 Future Features ](#-future-features-)
-  - [🤝 Contributing ](#-contributing-)
-  - [⭐️ Show your support ](#️-show-your-support-)
+  - [👥 Authors ](#-authors-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
 
-<!-- PROJECT DESCRIPTION -->
 
-# 📖 [Portfolio website] <a name="about-project"></a>
-**Portfolio website** is a project under microverse Module 1 block ! aimed at testing my knowledge about the concepts learnt in the first 3 days of the program.
+# 📖 [Portifolio Mobile Website ] <a name="about-project"></a>
+**Portifolio Mobile Website** is a project under microverse Module 1 block ! aimed at testing my knowledge about the concepts learnt and to help me build a website to display my work so that I stand out in the Job market.
+This project is meant to run on all devices but this in particular is a mobile version of it.
+
+click on here to reach me: https://github.com/MustafaSamiShirzad
+
 
 ## 🛠 Built With **HTML and CSS**
 
 ### Tech Stack **HTML and CSS**
 ### Key Features <a name="key-features"></a>
-- **Displays Portfolio website**
- **how can you build you portfolio landing page**
-
-
+- **Contains information about me and the services I offer in the software development world**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -83,8 +51,9 @@ In order to run this project you need: A web browser.
 ### Setup
 
 Clone this repository to your desired folder:
-cd Module_1
--git clone https://github.com/MustafaSamiShirzad/Portifoliowebsite.git
+cd Module_1 
+
+https://github.com/MustafaSamiShirzad/Portifoliowebsite.git
 
 ### Install
 
@@ -95,43 +64,25 @@ _No installation is required, double click the index.html file to open it.
 To run the project, execute the following command:
 -Double click the index.html file.
 
-<!-- FUTURE FEATURES -->
-
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **[Add some Javascript to make it more responsive.]**
-- [ ] **[and also would like to implement it using React for more accuracy.]**
-
-<!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Mustafa Shirzad**
+👤 **MustafaShirzad**
 
-- GitHub: @MustafaSamiShirzad
-
+- GitHub: @Mustafashirzad
 
 
 If you like this project like it and give me a follow.
 
 
-<!-- ACKNOWLEDGEMENTS -->
-contributing <a name="contributing"></a>
- **Mustafa Shirzad**
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-- GitHub: @MustafaSamiShirzad
+It was a solo effort with consultation from resources.
 
-Show your support  <a name="show-your-support"></a>
 
-if you like this project you can follow me and reach me on Github:
- GitHub: @MustafaSamiShirzad
-
- Acknowledgments   <a name="acknowledgments"></a>
- i would like to thank AssimeMark for his support:
- 
- Github@ https://github.com/As1imwe-Mark
-
-<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
