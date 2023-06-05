@@ -197,14 +197,14 @@ body {
 }
 
 .skill-stacks {
-  list-style: none;
-  display: inline;
+ float:left;
   margin-left: -10;
   padding-left: 0;
 }
 
 .skill-stacks li {
-  display: inline-block;
+  list-style: none;
+  float:left;
   line-height: 16px;
 }
 
